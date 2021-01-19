@@ -7,6 +7,12 @@
 
 #include <iostream>
 
+/* TODO list
+*  
+* Should be same speed while going diagonally as in x/y axis
+* 
+*/
+
 void framebufferSizeCallback(GLFWwindow* window, int width, int height);
 void keyCallback(GLFWwindow* window, int key, int scanCode, int action, int mode);
 
